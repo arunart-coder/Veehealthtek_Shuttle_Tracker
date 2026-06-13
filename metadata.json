@@ -1,0 +1,8 @@
+{
+  "name": "Shuttle Tracker",
+  "description": "VeeHealthtek Office Shuttle Management System. Track trips, manage drivers, and generate reports using local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
